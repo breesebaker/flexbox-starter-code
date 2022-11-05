@@ -8,6 +8,9 @@ div {
   font-size: 20px;
 }
 
+.flex-container {
+  display: flex;
+}
 
 /* 
 -----------------------------
